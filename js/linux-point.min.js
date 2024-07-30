@@ -1,5 +1,5 @@
 /*!
- * Linux Post v1.8.2 (http://linuxpost.github.io)
+ * Linux Point v1.8.2 (http://linuxpoint.github.io)
  * Copyright 2024 Navneet Nishant<navneet.nishant@aol.com>
  */
 

@@ -1,14 +1,14 @@
 {
-    "name": "linux-post",
-    "title": "Linux Post",
+    "name": "linux-point",
+    "title": "Linux Point",
     "author": "Navneet Nishant<navneet.nishant@aol.com>",
     "version": "1.8.2",
-    "homepage": "http://linuxpost.github.io",
+    "homepage": "http://linuxpoint.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/linuxpost/linuxpost.github.io"
+        "url": "https://github.com/linuxpoint/linuxpoint.github.io"
     },
-    "bugs": "https://github.com/linuxpost/linuxpost.github.io/issues",
+    "bugs": "https://github.com/linuxpoint/linuxpoint.github.io/issues",
     "devDependencies": {
         "grunt": "^1.6.1",
         "grunt-banner": "~0.2.3",
