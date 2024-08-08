@@ -1,0 +1,11 @@
+
+# create a post on linuxpoint.github.io
+
+rake post title="Setup a Local Kubernetes Cluster in Five Minutes!" subtitle="Using kind + Docker"
+
+# build the website or making any changes
+
+npm run dev
+
+grunt
+
