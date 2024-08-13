@@ -4,7 +4,7 @@ SEOTitle: Welcome to Linux Point
 header-img: img/home-bg.jpg
 email: navneet.nishant@aol.com
 description: "Explore the fascinating world of Linux."
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+keyword: ""
 url: "https://linuxpoint.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -73,7 +73,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "Navneet Nishant - DevOps Engineer"
+sidebar-about-description: "Hey There! This is Navneet Nishant. I work as a DevOps Engineer with passion for GNU/Linux and a knack to explore the internals of technologies I interact with. My sole motivator is the question WHY?"
 sidebar-avatar: https://github.com/navneetnishant.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
